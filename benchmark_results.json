@@ -1,0 +1,230 @@
+[
+    {
+        "graph_name": "fpsol2.i.1",
+        "num_colors": 65
+    },
+    {
+        "graph_name": "fpsol2.i.2",
+        "num_colors": 30
+    },
+    {
+        "graph_name": "fpsol2.i.3",
+        "num_colors": 30
+    },
+    {
+        "graph_name": "inithx.i.1",
+        "num_colors": 54
+    },
+    {
+        "graph_name": "inithx.i.2",
+        "num_colors": 31
+    },
+    {
+        "graph_name": "inithx.i.3",
+        "num_colors": 31
+    },
+    {
+        "graph_name": "le450_15a",
+        "num_colors": 15
+    },
+    {
+        "graph_name": "le450_15b",
+        "num_colors": 15
+    },
+    {
+        "graph_name": "le450_15c",
+        "num_colors": 15
+    },
+    {
+        "graph_name": "le450_15d",
+        "num_colors": 15
+    },
+    {
+        "graph_name": "le450_25a",
+        "num_colors": 25
+    },
+    {
+        "graph_name": "le450_25b",
+        "num_colors": 25
+    },
+    {
+        "graph_name": "le450_25c",
+        "num_colors": 25
+    },
+    {
+        "graph_name": "le450_25d",
+        "num_colors": 25
+    },
+    {
+        "graph_name": "le450_5a",
+        "num_colors": 5
+    },
+    {
+        "graph_name": "le450_5b",
+        "num_colors": 5
+    },
+    {
+        "graph_name": "le450_5c",
+        "num_colors": 5
+    },
+    {
+        "graph_name": "le450_5d",
+        "num_colors": 5
+    },
+    {
+        "graph_name": "mulsol.i.1",
+        "num_colors": 49
+    },
+    {
+        "graph_name": "mulsol.i.2",
+        "num_colors": 31
+    },
+    {
+        "graph_name": "mulsol.i.3",
+        "num_colors": 31
+    },
+    {
+        "graph_name": "mulsol.i.4",
+        "num_colors": 31
+    },
+    {
+        "graph_name": "mulsol.i.5",
+        "num_colors": 31
+    },
+    {
+        "graph_name": "school1",
+        "num_colors": 385
+    },
+    {
+        "graph_name": "school1_nsh",
+        "num_colors": 352
+    },
+    {
+        "graph_name": "zeroin.i.1",
+        "num_colors": 49
+    },
+    {
+        "graph_name": "zeroin.i.2",
+        "num_colors": 30
+    },
+    {
+        "graph_name": "zeroin.i.3",
+        "num_colors": 30
+    },
+    {
+        "graph_name": "anna",
+        "num_colors": 11
+    },
+    {
+        "graph_name": "david",
+        "num_colors": 11
+    },
+    {
+        "graph_name": "homer",
+        "num_colors": 13
+    },
+    {
+        "graph_name": "huck",
+        "num_colors": 11
+    },
+    {
+        "graph_name": "jean",
+        "num_colors": 10
+    },
+    {
+        "graph_name": "games120",
+        "num_colors": 9
+    },
+    {
+        "graph_name": "miles1000",
+        "num_colors": 42
+    },
+    {
+        "graph_name": "miles1500",
+        "num_colors": 73
+    },
+    {
+        "graph_name": "miles250",
+        "num_colors": 8
+    },
+    {
+        "graph_name": "miles500",
+        "num_colors": 20
+    },
+    {
+        "graph_name": "miles750",
+        "num_colors": 31
+    },
+    {
+        "graph_name": "queen10_10",
+        "num_colors": 100
+    },
+    {
+        "graph_name": "queen11_11",
+        "num_colors": 11
+    },
+    {
+        "graph_name": "queen12_12",
+        "num_colors": 144
+    },
+    {
+        "graph_name": "queen13_13",
+        "num_colors": 13
+    },
+    {
+        "graph_name": "queen14_14",
+        "num_colors": 196
+    },
+    {
+        "graph_name": "queen15_15",
+        "num_colors": 225
+    },
+    {
+        "graph_name": "queen16_16",
+        "num_colors": 256
+    },
+    {
+        "graph_name": "queen5_5",
+        "num_colors": 5
+    },
+    {
+        "graph_name": "queen6_6",
+        "num_colors": 7
+    },
+    {
+        "graph_name": "queen7_7",
+        "num_colors": 7
+    },
+    {
+        "graph_name": "queen8_12",
+        "num_colors": 12
+    },
+    {
+        "graph_name": "queen8_8",
+        "num_colors": 9
+    },
+    {
+        "graph_name": "queen9_9",
+        "num_colors": 10
+    },
+    {
+        "graph_name": "myciel3",
+        "num_colors": 4
+    },
+    {
+        "graph_name": "myciel4",
+        "num_colors": 5
+    },
+    {
+        "graph_name": "myciel5",
+        "num_colors": 6
+    },
+    {
+        "graph_name": "myciel6",
+        "num_colors": 7
+    },
+    {
+        "graph_name": "myciel7",
+        "num_colors": 8
+    }
+]

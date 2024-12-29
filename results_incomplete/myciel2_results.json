@@ -1,0 +1,11 @@
+{
+    "graph_name": "myciel2",
+    "status": "INFEASIBLE",
+    "coloring": {},
+    "num_colors": 0,
+    "duration": 0,
+    "num_nodes": 0,
+    "edge_density": 0,
+    "solved": false,
+    "edges": []
+}
